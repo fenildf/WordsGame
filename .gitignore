@@ -3,7 +3,12 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+/[Bb]in/
+/[Dd]bug/
+/x64
 Assets/AssetStoreTools*
+/BuildProject/
+/AssetBundles/
 
 # Visual Studio cache directory
 .vs/
